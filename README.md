@@ -1,1 +1,3 @@
 # Custom-CSS-Scrollbar
+This repo has custom css scrollbar made by me....
+It has gradient and its reverse hover effect
