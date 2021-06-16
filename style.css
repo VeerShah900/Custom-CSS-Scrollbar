@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+}
+.text{
+    font-size: 40px;
+    color: rgb(236, 161, 10); 
+    background-color: #082994;
+}
+::-webkit-scrollbar {
+    width: 25px;
+  }
+     
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(
+      135deg,
+      #082994,
+      #e9e905
+    ); 
+    border-radius: 30px;
+  }
+
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgb(8, 0, 0); 
+    border-radius: 50px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient( 
+     45deg,
+    #082994,
+    #e9e905
+    ); 
+  }
+  a{
+    text-decoration: none;
+    color: #000000;
+}
+.change-font{ 
+  text-align: center;
+  margin-top: 300px;
+  font-size: 15px;
+}
